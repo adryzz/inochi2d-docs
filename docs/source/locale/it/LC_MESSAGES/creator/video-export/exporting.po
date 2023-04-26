@@ -1,0 +1,206 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Luna the Foxgirl
+# This file is distributed under the same license as the Inochi2D package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inochi2D \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 19:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/creator/video-export/exporting.rst:3
+#: bcc24b21ba414c07af6668823c83dfb3
+msgid "The Export Video Dialog"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:7
+#: dabba25f814e4337af8ac0800db05280
+msgid ""
+"The video export dialog allows you to specify settings for the exported "
+"video."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:9
+#: e0b8dac720a340f7b5964e57494aec57
+msgid ""
+"Some settings may be discarded due to incompatibility with the output "
+"file format, such as discarding transparency for opaque video formats."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:19
+#: 4195ebecdb9b41dd84a07289b52484e1
+msgid ""
+"You will need at least 1 animation and 1 camera in your scene to export "
+"video!"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:21
+#: a507896c84734b94b8b19c375880b214
+msgid "Otherwise you just get a sad error box telling you to go do that."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:26
+#: 5abeb909603049f39ba40f3810e713a1
+msgid "Starting an Export"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:28
+#: 688aef68ab5b474ab76b0c31b6f05688
+msgid "To start an export, go to ``File->Export->Video`` from the main menu."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:30
+#: bb395cc956b0477c93c0b29ece585a6d
+msgid ""
+"You will then be presented with a dialog asking you where you wish to "
+"save the video file."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:32
+#: 8db2fd0b5bbc4e8cb94313c3af02646e
+msgid "If the option is grayed out, see :doc:`Installing FFMPEG <ffmpeg>`."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:37
+#: b549157717394d9da9b4fdad24e91159
+msgid "Camera"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:39
+#: 37e6acca3d6a4388b55797ed48465315
+msgid ""
+"The following section allows you to adjust some settings about the camera"
+" for export."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:42
+#: 8cedbf741f57470585ce6d837bac98f7
+msgid "Camera dropdown"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:44
+#: 644d93bf4b0541928a2b0ac60f2ff44e
+msgid ""
+"The camera dropdown lets you select which camera to use, if the camera is"
+" affected by the Animation, then you can export video with zooms, pans, "
+"etc."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:47
+#: 4f23885c630947ad84337accecbfe024
+msgid "Allow Transparency"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:49
+#: e18493ab429f4ff9ac3f7fea18576b88
+msgid ""
+"Whether Inochi Creator should try to export the background with "
+"transparency, only some formats and codecs support this, though!"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:52
+#: 4300b8623f7c4d16bda00830a47f7aba
+msgid "Use Post Processing"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:54
+#: 478d811bf0e54d10a72184bcab5b215f
+msgid ""
+"Whether Inochi Creator should use the scene lighting in the exported "
+"video, this allows your model to have glowing elements, etc."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:59
+#: 9e827dabc9b44d99abb30da151afb142
+msgid "Output"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:62
+#: 36c5b8c2dddb448f977800c6f39cdd60
+msgid "Animation dropdown"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:64
+#: 5f30a7c6aeca48ffb862df56080a9b55
+msgid "Lets you select which animation to export to file."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:67
+#: aaa91cc6c1b44e97b6f19bed990d1d2f
+msgid "Loops"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:69
+#: 05d3db84eb844999aaf74f157d72d64c
+msgid ""
+"How many times the main section of the animation should be looped, "
+"setting this value to 0 is semantically the same as setting it to 1."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:72
+#: 2e9c6566074246678a089aacf0dfaeb3
+msgid "Framerate"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:74
+#: e3c1179d35ae475c86f326fc0566d177
+msgid "The framerate of the video file to export"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:77
+#: c070719b48fc40efb5c6dfffed7f0ab2
+msgid "Lock to Animation Framerate"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:79
+#: 8d16627832a444a9a63aa695d22ca209
+msgid ""
+"Disables smoothing of mismatched framerates between video export and "
+"animation framerate."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:82
+#: 1428a01d31ef48d28e89b640c1d5672c
+msgid "Codec"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:84
+#: 04c77df684ac4c7c815153db167a513f
+msgid ""
+"Which video codec to use for export, by default Inochi Creator will try "
+"to automatically infer the codec."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:86
+#: fdcfb40eaa664ae9a592a5a2821767af
+msgid ""
+"Eg. for H.264 video you'll want to export an mp4 file, with the H.264 "
+"codec selected in the list."
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:97
+#: be9389afbea34ee49e30c1c8ee3f276a
+msgid ""
+"The assumptions Inochi Creator makes with the Automatic option may be "
+"wrong!"
+msgstr ""
+
+#: ../../source/creator/video-export/exporting.rst:99
+#: 399ab3d110824a289ffe2be5906665e9
+#, python-format
+msgid ""
+"If you want to be 100% sure that Inochi Creator uses the right codec, "
+"please set it from the list!"
+msgstr ""
+

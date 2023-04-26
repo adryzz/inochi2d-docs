@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Luna the Foxgirl
+# This file is distributed under the same license as the Inochi2D package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inochi2D \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 19:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/index.rst:57
+msgid "Inochi2D"
+msgstr "Inochi2D"
+
+#: ../../source/index.rst:14 ../../source/index.rst:67
+#: 4b55aaaec4c74ec0a931bacbaff8e72f
+msgid "Inochi Creator"
+msgstr "Inochi Creator"
+
+#: ../../source/index.rst:15 ../../source/index.rst:79
+#: 07387deef15444d89fee6a55eb32cb8b
+msgid "Inochi Session"
+msgstr "Inochi Session"
+
+#: ../../source/index.rst:3 c72792b100214a7499dcb20e5112ed0f
+msgid "Welcome to the Inochi2D Documentation"
+msgstr "Benvenuto nella documentazione di Inochi2D"
+
+#: ../../source/index.rst:5 c05d42ac6cf5490dbaaba2938467e741
+msgid ""
+"On this page, you will find documentation for the officially supported "
+"projects under the Inochi2D banner. Use the sidebar on the left to select"
+" a project to get documentation from, and a topic you want to read about."
+msgstr ""
+"In questa pagina si trova la documentazione dei progetti ufficialmente "
+"supportati da Inochi2D. Usa la barra laterale a sinistra per selezionare "
+"il progetto di cui vuoi trovare la documentazione e l'argomento che vuoi leggere."
+
+#: ../../source/index.rst:9 96825356da384f51863623a1ac23b555
+msgid "What is Inochi2D?"
+msgstr "Che cos'è Inochi2D?"
+
+#: ../../source/index.rst:11 fbd51ceb081940f398ae6f70f9da656c
+msgid ""
+"Inochi2D is an open source specification for a 2D character animation "
+"system that allows characters to be animated in real-time for games and "
+"VTubing. Inochi2D achieves this by deforming textures in real time based "
+"on parameters the rigger sets in Inochi Creator."
+msgstr ""
+"Inochi2D è una specifica open source per un sistema di animazione di personaggi 2D "
+"che permette di animare i personaggi in tempo reale per giochi e "
+"VTubing. Inochi2D ottiene questo risultato deformando le texture in tempo reale "
+"sulla base di parametri impostati parametri impostati dal rigger in Inochi Creator."
+
+#: ../../source/index.rst:17 2cdb60a0d11b4da6a554ea64d951faa6
+msgid "This documentation page covers:"
+msgstr "Questa pagina della documentazione tratta di:"
+
+#: ../../source/index.rst:16 5d751aaf2ead437c90307d2c981cbeae
+msgid "Inochi2D Specification for implementers"
+msgstr "Specifiche Inochi2D per gli sviluppatori"
+
+#: ../../source/index.rst:17 94c6dbae52f8462baf29d0cb186afa5e
+msgid "Inochi2D SDK for developers"
+msgstr "SDK Inochi2D per gli sviluppatori"
+
+#: ../../source/index.rst:19 19e6605287cb437f92a9953da23b7b86
+msgid ""
+"**Inochi Creator** is the official tooling to create animated rigs for "
+"use with Inochi2D compliant software and games."
+msgstr ""
+"**Inochi Creator** è lo strumento ufficiale per creare rig animati "
+"da utilizzare con software e giochi conformi allo standard Inochi2D."
+
+#: ../../source/index.rst:21 c5433b49b4e6432d8f40deb6c7d9f6b3
+msgid ""
+"**Inochi Session** is the official tooling to use Inochi2D models for "
+"VTubing, using various forms of body and face tracking."
+msgstr ""
+"**Inochi Session** è lo strumento ufficiale per utilizzare i modelli Inochi2D per il "
+"VTubing, utilizzando varie forme di tracciamento del corpo e del volto."
+
+#: ../../source/index.rst:23 c3c5394f5f4941b5bf28929d03efe343
+msgid ""
+"**Inochi2D Specification** is meant for developers that want to implement"
+" Inochi2D in their preferred engine."
+msgstr ""
+"La **Specifica Inochi2D** è destinata agli sviluppatori che vogliono implementare"
+" Inochi2D nel loro motore preferito."
+
+#: ../../source/index.rst:25 96dabeedecfd47c687300bb90eaa2321
+msgid ""
+"**Inochi2D SDK** is the official Software Development Kit that allows "
+"integrating Inochi2D in to your games and software."
+msgstr ""
+"**Inochi2D SDK** è il kit di sviluppo software ufficiale che consente di "
+"integrare Inochi2D nei vostri giochi e software."
+
+#: ../../source/index.rst:30 ce5f6b0eacf945fea7f4d98a7bc29e80
+msgid "Meet Ada"
+msgstr "Incontra Ada"
+
+#: ../../source/index.rst:40 6ca16cee42e44f869e1a5d030caff58a
+msgid ""
+"Ada is Inochi2D's mascot, an airheaded, friendly and helpful foxgirl. She"
+" will appear throughout the documentation with tips, warnings and other "
+"tidbits of information that may be useful."
+msgstr ""
+"Ada è la mascotte di Inochi2D, una ragazza-volpe dalla testa d'aria, amichevole e disponibile. Lei"
+" apparirà in tutta la documentazione con suggerimenti, avvertimenti e altre "
+"informazioni che possono essere utili."
+
+#: ../../source/index.rst:42 f92bd485348946348095e84c32692f8a
+msgid "Hello, there!"
+msgstr "Ciao!"
+
+#: ../../source/index.rst:52 9a6d4776b16840a2b02c4262e6d041d9
+msgid ""
+"Nice to meet ya! I'm Ada, local vertex engineer fox! Please don't mind me"
+" shedding a bit of fur on your experience 🦊"
+msgstr ""
+"Piacere di conoscerti! Sono Ada, la volpe ingegnere locale dei vertici!"
+"Per favore, non preoccuparti se spargo un po' di pelo sulla tua esperienza 🦊"
+
+#: ../../source/index.rst:54 463b12fd41e74314b173b17dd463403f
+msgid ""
+"Oh, and don't forget: If you have questions not covered here you can "
+"always reach out to us on `our Discord "
+"<https://discord.gg/invite/abnxwN6r9v>`__!"
+msgstr ""
+"Oh, e non dimenticare: se hai domande che non sono state trattate qui, puoi "
+"sempre contattarci sul nostro Discord "
+"<https://discord.gg/invite/abnxwN6r9v>`__!"

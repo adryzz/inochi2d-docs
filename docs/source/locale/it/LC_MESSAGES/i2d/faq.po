@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Luna the Foxgirl
+# This file is distributed under the same license as the Inochi2D package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inochi2D \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 19:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/i2d/faq.rst:3 72e0682c79634098ac5afcf930ed3bce
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:5 1f6888ef5b744f8cb136c25879899e2a
+msgid ""
+"We get asked some questions often, we've compiled some of them and listed"
+" answers to them here."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:8 06a626380ad04a57955713a587c9f798
+msgid "How much does Inochi2D Cost?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:10 e483a5a9c23c4ad9b98e05f0a04af08f
+msgid ""
+"**Nothing**, Inochi2D is free, BSD 2-clause licensed software. You may "
+"download and use it at no cost, with the only limit being that you may "
+"not remove the license text from the software. You can *optionally* "
+"support the development monetarily via `Patreon "
+"<https://patreon.com/LunaFoxgirlVT>`__ or `GitHub Sponsors "
+"<https://github.com/sponsors/LunaTheFoxgirl>`__, though this is "
+"completely optional."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:14 5a6b9e2b5bd14adf9d31ee740778020a
+msgid "Is Inochi2D ready for use?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:16 65e7dce43c6146b4be56f4ca259378dc
+msgid ""
+"Inochi2D and the accompanying tools are still heavily work-in-progress. "
+"They are usable for usecases we officially support, but it's still "
+"evolving very quickly so we can't promise that it is ready for game "
+"development. Some of the tooling is still a work in progress and will be "
+"improved with time to be easier to use."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:21 1d1ed8bd0b3748c7ab0a0578d420d459
+msgid "Can I load my PSD file in to Inochi Creator?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:22 6e257fe317ce431e8dd1453f7dc6304a
+msgid ""
+"Yes, under the File->Import menu you can import Photoshop PSD documents, "
+"do note that PSD support is still a work in progress and some metadata "
+"may load incorrectly (blending modes being applied wrong or layers being "
+"hidden that shouldn't) You may need to do some manual work setting "
+"blending modes and unhiding/hiding nodes in the node tree in that case."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:26 24363d2b54e7449296dbf7d3c6dc7a90
+msgid "Can I use my existing Live2D models with Inochi2D?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:27 008f3144bcbf48f7a70f59d15140a506
+msgid ""
+"No, Inochi2D is an entirely new open format that is on a fundamental "
+"level incompatible with Live2D. As such the model will have to be re-"
+"rigged for Inochi2D. Inochi2D should for the most part be compatible with"
+" PSDs cut for Live2D use, though."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:30 8d9a526e758f42b388aff66e266e1c02
+msgid "What advantages does Inochi2D have over Live2D?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:36 19d7ddf375444fd5ab6575c3dfe28e51
+msgid "Inochi2D has multiple advantages, some still in development:"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:32 70f8dbc2652049338cb25c1478e897d1
+msgid ""
+"Inochi2D is open source and has no licensing fees for integration in your"
+" project"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:33 bf6da949e98a45d6b9ba62459faf0cd0
+msgid ""
+"Inochi2D natively supports multi-texturing for render passes, this means "
+"you can add special rendering effects to your model at low rendering "
+"cost, such as eyes that glow in the dark, make your model react to "
+"lighting in a scene and more."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:34 11cc709b300a4b9b88bfd0563ddcd3f6
+msgid ""
+"Inochi2D is extensible, if you're a developer you can add new Node and "
+"Automation types to Inochi2D without breaking other applications that "
+"support Inochi2D."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:35 78d440318e8d4d2ab8666f3a05d77549
+msgid ""
+"Inochi2D combines all the required assets and data in to its INP file "
+"format, this format additionally allows apps to save settings to your "
+"model, allowing those settings to transfer over if you move the model to "
+"a new computer."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:36 b49582366a0b479495d1964a33ef6616
+msgid ""
+"Inochi2D is quite light on PC resources, while Inochi2D has not had a "
+"proper optimization pass yet the performance is already pretty decent. "
+"We'll be improving performance further over time as we get closer to 1.0."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:39 fddd5f0b269043c08f35accba3fe275b
+msgid "Does Inochi2D support pre-defined animations?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:41 c664f3b6c4c449279fd4f7c89b85f869
+msgid ""
+"From version 0.8 of Inochi2D you can create animations and save them to "
+"your model."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:44 0d8691d4334547b69633dc07e7eb1daf
+msgid "Does Inochi2D do face tracking?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:46 18a6a63d298d41ccba98b2b63a07c37b
+msgid ""
+"Inochi2D in of itself is just a format for 2D puppets/models. The "
+"official Inochi Session app and facetrack-d library provides you with the"
+" ability to use your Inochi2D puppet in conjunction with face tracking "
+"technologies."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:49 d3baac757a174f3caf9e26bb1f184ba1
+msgid "Why does text in Inochi Creator in X language look like question marks?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:51 5c1cb32764e3409ba828921fa0b65f1c
+msgid ""
+"Inochi Creator uses ImGui to render its UI, as of current ImGui does not "
+"support dynamically loading glyphs from fonts, and loading every text "
+"character under the sun would be bad for performance. Until dynamic "
+"character loading is in place English and Japanese are the main supported"
+" languages. Translations may specify metadata files with font and glyph "
+"range information for their respective languages, but text from those "
+"languages will only render properly if you set Inochi Creator to that "
+"language. Inochi Creator does not support languages that require advanced"
+" font shaping (eg. Arabic) as well as right-to-left languages currently "
+"due to ImGui limitations. If those limitations some day get solved we'll "
+"let you know."
+msgstr ""
+
+#: ../../source/i2d/faq.rst:56 0c084614e5f246179b2c41603945ecc1
+msgid "I would like to use Inochi2D for blockchain/web3/etc., is this supported?"
+msgstr ""
+
+#: ../../source/i2d/faq.rst:58 ca7693a1259a4a16b188c3e07b979d2f
+msgid ""
+"*No*, and we're not interested in any \"projects\" using that technology."
+" We ask that you do not harass our team members and contributors about "
+"it, nor bring it up on our Discord."
+msgstr ""
+

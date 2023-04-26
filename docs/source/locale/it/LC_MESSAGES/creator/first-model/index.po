@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Luna the Foxgirl
+# This file is distributed under the same license as the Inochi2D package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inochi2D \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 19:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/creator/first-model/index.rst:3
+#: ../../source/creator/first-model/index.rst:11
+#: e9ad118d9e6e4c5e80279c81c02352f6
+msgid "Your First Model"
+msgstr ""
+
+#: ../../source/creator/first-model/index.rst:5
+#: 42684fd9aa704e0f8c421639fd1b656f
+msgid ""
+"The following is a small tutorial teaching you the basics of modeling in "
+"Inochi Creator."
+msgstr ""
+
+#: ../../source/creator/first-model/index.rst:7
+#: 3e6567e28ecc469194d962f80b3243b0
+msgid ""
+"Starting with a minified form of the Aka PSD you will learn the basic "
+"layout of the UI, how to mesh parts, how to use Parameters, adding "
+"Physics and so forth."
+msgstr ""
+
+#: ../../source/creator/first-model/index.rst:9
+#: d0366c6fd1214309b405b0df75ea7055
+msgid ""
+"First make sure you have :doc:`Inochi Creator installed and basic setup "
+"is done </creator/getting-started>` before continuing to the next "
+"section."
+msgstr ""
+

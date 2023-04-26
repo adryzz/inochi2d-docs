@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Luna the Foxgirl
+# This file is distributed under the same license as the Inochi2D package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inochi2D \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 19:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/creator/getting-started.rst:3 9c03896c7f284ea9a733011277b7532d
+msgid "Getting Started"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:6 3106453755f5471c93d1a951da821856
+msgid "System Requirements"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:8 371570b982e544838f70eec6bcb67b9c
+msgid ""
+"The following system requirements have to be met before running Inochi "
+"Creator."
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:15 c55934570b484a40ab23d484581c1bcc
+msgid "Minimum"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:16 4663c66cc2f040c89103001869c50a9d
+msgid "Recommended"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:17 f225c1ad036445beaad3f0b44f44afba
+msgid "Processor"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:18 35ebda5dbbca456e9ba3c72a30dcac45
+msgid "x86_64 or ARM64 CPU [#req_cpu]_"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:19 bf0f93512baf439da0334a549016bf76
+msgid "Recent x86_64 or ARM64 CPU [#req_cpu]_"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:20 465d82de5dec4c25b01e57d31b607383
+msgid "Memory"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:21 37ff2b665e284834a51653f7d7d18b69
+msgid "512 MB"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:22 35ea297cffd9467ba8e0554b74d6bbbb
+msgid "1 GB or more"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:23 bf64404689c54b16bfce7413a3fc32bf
+msgid "Disk Space"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:24 edfd3bf93d9b4df4a2a217063a3e6332
+msgid "100 MB or more [#req_space]_"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:25 e7b367068edb4b1ea7e6bc853c534b92
+msgid "500 MB or more [#req_space]_"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:26 7a735c17f432499f9f9a1d7db710ff11
+msgid "Graphics Processor"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:27 9b39b094e6604466a95e9f938e0a7a7a
+msgid "OpenGL 3.2 Support [#req_gl]_, 512 MB VRAM"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:28 7c958cec88294ec1b97d3c75392a5c8c
+msgid "OpenGL 3.2 Support [#req_gl]_, 1 GB VRAM or more"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:29 76fa6209c4974ed3a237be0d8102475b
+msgid "Display Resolution (Pixels)"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:30 ac00de24ce85448f948e6a00301cef5a
+msgid "960x800"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:31 b1799647479e45749a70bbaf7b610334
+msgid "1920x1080 or higher"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:33 14b52f6f176c4bd4b8ac253d66bac54f
+msgid ""
+"Inochi Creator does not support 32 bit systems currently to reduce the "
+"maintenance burden."
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:39 7fb4f24898244119968feda770b9831a
+msgid "Downloading Inochi Creator"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:41 e60e791b86b64a4f9f57b2656fe6307c
+msgid ""
+"Inochi Creator is released in 2 streams, **Stable** and **Nightly**. "
+"Stable releases are generally recommended for having better stability, "
+"but it lacks behind in features with Nightly. Meanwhile, Nightly is built"
+" by GitHub from the latest code every night, this means it has the latest"
+" features, but also the latest bugs."
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:50 ef74d41ee67d4a5c8b27e89bd7a0c3be
+msgid "**Stable** is available to download on:"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:47 2e9372ef0410423abb7d3b88c28e2d04
+msgid "`Our Website <https://inochi2d.com>`__"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:48 cfb7c8ae133b4ce9936fdd2e3dedddc3
+msgid "`Itch.io <https://lunafoxgirlvt.itch.io/inochi-creator>`__"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:49 7e99dd3fef9645cc8161c717d137bbbe
+msgid "`GitHub <https://github.com/Inochi2D/inochi-creator/releases/latest>`__"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:50 9590e98699344867a5e52bd5afa8e4d4
+msgid "`Flathub <https://flathub.org/apps/details/com.inochi2d.inochi-creator>`__"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:53 be6676d7fa26434496d5344cb26d0620
+msgid "**Nightly** is available to download on:"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:53 16cf03fd774c43218d13c53622b86953
+msgid ""
+"`GitHub <https://github.com/Inochi2D/inochi-"
+"creator/releases/tag/nightly>`__"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:55 484eeacf2fab438ea95f1b9fa2d618c7
+msgid ""
+"If you use *Itch.io's Launcher* or *Flatpak*, Inochi Creator will "
+"automatically stay updated. Our ZIP and DMG packages do currently not "
+"auto-update, but we plan to change this in the future."
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:66 411a8f0594ca43dfb169759c3f57ee67
+msgid ""
+"Nightly builds are not stable, we really don't recommend using them "
+"unless you know what you're doing. Nightly builds are likely to crash and"
+" can corrupt your files in the process!"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:68 a5cb6e76dcb9497db56dfe5f1f1eaf69
+msgid "Make frequent backups!"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:73 699704f5344e4adca7b6d71a177f7d71
+msgid "First Time Setup"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:75 314daa9565434a7ab3e0633bd3cf004f
+msgid ""
+"First time you launch Inochi Creator the Welcome Screen will pop up, you "
+"can set some basic settings here like Color Theme, Language and UI "
+"Scaling [#ui_nomac]_."
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:83 9deddbea888b47bdbc0ed9afdc0b9f2c
+msgid ""
+"Inochi Creator supports multiple languages, so if English is not your "
+"first language you may change the language, by clicking the dropdown in "
+"the \"Language\" section"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:86 9b055c2cc86541ceb6749236280f982d
+msgid ""
+"After having set up the basic settings you are then free to start "
+"creating Inochi2D models!"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:88 b50d7d320120431894f4236e3338593c
+msgid ""
+"You can download example models on the same page you downloaded the "
+"version of Inochi Creator you installed."
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:93 891cfb4c1a1d48ff8a78496e307f5f60
+msgid "Notes"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:95 48b58bca8295447cb172d9836fe43032
+msgid "*x86_64 and ARM64 refers to 64 bit CPUs by ARM, Intel and AMD.*"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:98 c44a3475587d4200a060c57b1b3b0cc3
+msgid ""
+"*Disk Space requirements depend on the size and amount of models you have"
+" on your system.*"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:101
+#: 57c525d0911844149a02cb65335a77a4
+msgid "*OpenGL 3.2 is supported on the following GPUs:*"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:103
+#: 9305d57e2ea1451c9a2c28c6f07fd0d6
+msgid "Gen 6 or later Intel HD Graphics on Linux and macOS"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:104
+#: d015f3f7893343868047debeaedf5df2
+msgid "Gen 7 or later Intel HD Graphics on Windows"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:105
+#: 0594b0358a674d09babbca1d5280e4a0
+msgid "Nvidia GeForce 8 series or later"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:106
+#: 7a2da7c6618c4308afd9ec3c061adf58
+msgid "AMD Radeon HD 2000 series or later (marketed as TeraScale 1)"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:107
+#: 288ad789ed4a4326bd97a6f520615026
+msgid "Apple Silicon M1 or later (OpenGL 3.1 with required extensions)"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:109
+#: 5b84ddc33802487e998fa03e9fb9f7b6
+msgid "VRAM requirements depend on the size of the model and texture count."
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:111
+#: 99b0f828fd32481c8fa532d97ed9f173
+msgid "*You will not see the UI scaling option on macOS*"
+msgstr ""
+
+#: ../../source/creator/getting-started.rst:113
+#: 389c77018c41484791d1ed471cebed88
+msgid ""
+"*This is intentional, UI Scaling is handled by the operating system on "
+"systems running macOS, To change the UI Scaling, open the system settings"
+" and change the UI scaling there.*"
+msgstr ""
+
